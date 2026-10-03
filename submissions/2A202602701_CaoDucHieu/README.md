@@ -8,9 +8,8 @@
 ---
 
 ## 1. Liên kết thực thi lại (Reproducibility Links)
-- **Kaggle Notebook (Khuyên dùng - Đã chạy đầy đủ GPU T4):** [Kaggle Notebook - DeepWeeds Lab Day 2](https://www.kaggle.com/code/caoduchieu/k4-day2-deepweeds-experiments)
-- **Google Colab Notebook:** [Google Colab - DeepWeeds Lab Day 2](https://colab.research.google.com/drive/1A_xY8zCaoDucHieu_DeepWeeds_Day2)
-- **GitHub Repository:** [K4-Day2-CaoDucHieu-2A202602701](https://github.com/ChunHieu/K4-Day2-CaoDucHieu-2A202602701)
+- **Kaggle Notebook (Đã chạy hoàn tất có output):** [https://www.kaggle.com/code/hiucaoc/track4day2](https://www.kaggle.com/code/hiucaoc/track4day2)
+- **GitHub Repository:** [https://github.com/ChunHieu/K4-Day2-CaoDucHieu-2A202602701](https://github.com/ChunHieu/K4-Day2-CaoDucHieu-2A202602701)
 
 ---
 

@@ -202,6 +202,7 @@ Trong thực nghiệm của chúng tôi:
 ---
 
 ## 9. Phụ lục (Appendix)
+- **Kaggle Notebook chạy lại:** [https://www.kaggle.com/code/hiucaoc/track4day2](https://www.kaggle.com/code/hiucaoc/track4day2)
 - **Tập tin kết quả chi tiết:** [`results.xlsx`](file:///e:/Track4/Day2/K4-Day2-CaoDucHieu-2A202602701/submissions/2A202602701_CaoDucHieu/results.xlsx) (7 sheets hoàn chỉnh).
 - **Mã nguồn thực thi:** Thư mục [`code/`](file:///e:/Track4/Day2/K4-Day2-CaoDucHieu-2A202602701/submissions/2A202602701_CaoDucHieu/code).
 - **Tập tin dự đoán test:** Thư mục [`predictions/`](file:///e:/Track4/Day2/K4-Day2-CaoDucHieu-2A202602701/submissions/2A202602701_CaoDucHieu/predictions).
