@@ -20,7 +20,7 @@ from PIL import Image
 import torch
 from torch.utils.data import Dataset, DataLoader, WeightedRandomSampler
 try:
-    import torchvision.transforms as T
+    import torchvision.transforms as T  # type: ignore
 except ImportError:
     T = None
 
